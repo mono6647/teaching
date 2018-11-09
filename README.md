@@ -1,0 +1,2 @@
+# teaching
+GitHub Pages
